@@ -7,7 +7,7 @@
   * .R script para viz
   * .sh script para automatização
 
-###Outputs:
+###outputs:
   * .csv com total de votos a cada 30 segundos
   * .png com visualizacões do total de votos e da taxa de variação
 
