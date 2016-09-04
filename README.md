@@ -10,6 +10,9 @@
 
 ####exemplos de plot:
 
+#####PEC 20/2016 Autoria Senador Walter Pinheiro
+Insere artigo no Ato das Disposições Constitucionais Transitórias, para prever a realização de eleições presidenciais simultaneamente às eleições municipais de 2016.
+
 ###### total de voto
 ![alt text](https://github.com/joaomeirelles/raspa_senado_ecidadania/blob/master/overview.png "Logo Title Text 1")
 
