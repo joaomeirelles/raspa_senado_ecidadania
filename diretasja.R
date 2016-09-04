@@ -40,7 +40,7 @@ d$contra_cum <- d_ret_con
 v <- ggplot() + 
   geom_line(data= d, aes(x=datahora,y=contra_cum), colour="brown3") +
   geom_line(data= d, aes(x=datahora,y=favor_cum), colour="mediumseagreen") + 
-  ylab('total de votos no intervalo')+xlab('')+ theme_bw(base_size = 12, base_family = "cambria")+
+  ylab('taxa de variação')+xlab('')+ theme_bw(base_size = 12, base_family = "cambria")+
   annotate("text", x = d$datahora[n/2], y = d$favor_cum[1]+0.00005, label = "a favor", colour="mediumseagreen")+
   annotate("text", x = d$datahora[n/2], y = d$favor_cum[1], label = "contra", colour="brown3")
 ggsave("/home/jm/Documents/database/diretasja/variacao.png", plot=v, width = 6, height = 3)  
