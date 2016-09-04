@@ -1,6 +1,6 @@
 # raspa_senado_ecidadania
 
-##raspador das consulta populares do e-cindania do Senado Federal
+##raspador das consulta populares do e-cindania - Senado Federal
 
 ###o framework é composto por:
   * .sh script para automatização
