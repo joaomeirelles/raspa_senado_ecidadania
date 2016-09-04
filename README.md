@@ -3,10 +3,13 @@
 ##raspador das consulta populares do e-cindania - Senado Federal
 
 ###o framework é composto por:
-  * .sh script para automatização
   * .py script para raspagem do site e-cidadania
-  * .csv com os dados salvos
   * .R script para viz
+  * .sh script para automatização
+
+###Outputs:
+  * .csv com total de votos a cada 30 segundos
+  * .png com visualizacões do total de votos e da taxa de variação
 
 ####exemplos de plot:
 
