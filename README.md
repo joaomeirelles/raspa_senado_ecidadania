@@ -10,7 +10,7 @@
 
 ####exemplos de plot:
 
-###### overview
+###### total de voto
 ![alt text](https://github.com/joaomeirelles/raspa_senado_ecidadania/blob/master/overview.png "Logo Title Text 1")
 
 ###### taxa de variação
